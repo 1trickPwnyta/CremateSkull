@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <RecipeDef>
+    <defName>CremateSkull</defName>
+    <label>cremate skull</label>
+    <description>Cremate a skull to completely destroy it.</description>
+    <jobString>Cremating.</jobString>
+    <workAmount>5</workAmount>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <effectWorking>Cremate</effectWorking>
+    <soundWorking>Recipe_Cremate</soundWorking>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Skull</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>Skull</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+  </RecipeDef>
+	
+</Defs>

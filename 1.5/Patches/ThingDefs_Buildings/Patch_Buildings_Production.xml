@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+	<Operation Class="PatchOperationInsert">
+		<xpath>/Defs/ThingDef[defName="ElectricCrematorium"]/recipes/li[text()="CremateCorpse"]</xpath>
+		<order>Append</order>
+		<value>
+			<li>CremateSkull</li>
+		</value>
+	</Operation>
+</Patch>

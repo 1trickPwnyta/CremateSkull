@@ -7,15 +7,7 @@
 		<li>1.5</li>
 	</supportedVersions>
 	<description>
-
+Randy Random has delivered (via drop pod) 25 skulls to your colony that nobody asked for. You could leave them outside to deteriorate, but now you can also cremate them at a crematorium, if you want.
 	</description>
 	<url>https://github.com/1trickPwnyta/CremateSkull</url>
-	<modDependencies>
-		<li>
-			<packageId>brrainz.harmony</packageId>
-			<displayName>Harmony</displayName>
-			<steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
-			<downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
-		</li>
-	</modDependencies>
 </ModMetaData>
